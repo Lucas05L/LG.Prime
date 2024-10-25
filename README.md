@@ -2,7 +2,7 @@
 
 
 <h1>Godzilla Era Showa: Ghidorah, O Monstro Tricéfalo</h1>
-#Gojira
+<p>#Gojira</p>
 
 Godzilla Era Heisei: Godzilla vs Destoroyah
 #Gojira
