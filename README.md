@@ -1,4 +1,4 @@
-<header>LG.PRIME</header>
+<h1>LG.PRIME</h1>
 
 
 <h1>Godzilla Era Showa: Ghidorah, O Monstro Tricéfalo</h1>
